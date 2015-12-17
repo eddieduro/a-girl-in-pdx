@@ -1,0 +1,23 @@
+- title: "PDX"
+  href: "/pdx/"
+  subcategories:
+    - subtitle: "Eats"
+      subhref: "/eats/"
+    - subtitle: "Brews"
+      subhref: "/brews/"
+    - subtitle: "Happy Hours"
+      subhref: "/happy-hours/"
+    - subtitle: "Music"
+      subhref: "/music/"
+    - subtitle: "What's going on now?"
+      subhref: "/whats-going-on/"
+
+- title: "Fitness"
+  href: "/fitness/"
+  subcategories:
+    - subtitle: "My Journey"
+      subhref: "/journey/"
+    - subtitle: "PDX Gyms"
+      subhref: "/pdx-gyms/"
+    - subtitle: "I Love Juicing"
+      subhref: "/juicing/"
