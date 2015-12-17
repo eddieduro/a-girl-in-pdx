@@ -1,2 +1,6 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'jekyll'
+gem 'kramdown'
+gem 'rack-jekyll', '~> 0.4.2'
+gem 'rake'
+gem 'puma'
