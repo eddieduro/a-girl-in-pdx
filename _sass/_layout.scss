@@ -62,11 +62,18 @@
     margin-top: -23px;
 }
 
+
+/* navbar */
+
+
 .navbar-default {
     background-color: #ec865a !important ;
     font-family: 'Lora', serif;
 }
-
+.dropdown-menu>li>a{
+    font-family: 'Lora', serif;
+    color: #fcc7ab !important;
+}
 .nav {
     font-family: 'Lora', serif;
 }
@@ -243,8 +250,13 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    border-top: 5px solid #ffa075;
+    background-color: #fdc0a6;
+    padding: 10px 0;
+}
+
+.foot-wrapper{
+    margin-left: 0;
 }
 
 .footer-heading {
