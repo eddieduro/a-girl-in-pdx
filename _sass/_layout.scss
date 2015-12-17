@@ -42,16 +42,17 @@
 }
 
 .title-background{
-    background-color: #8fbd7a;
+    background-color: none;
     height: 50px;
-    width: 200px;
+    width: 230px;
     margin: auto;
     top: 278px;
     position: relative;
+    border: 4px solid white;
 }
 
 .full {
-    background: url("https://images.unsplash.com/photo-1429032021766-c6a53949594f?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1275") no-repeat no-repeat;
+    background: url("http://res.cloudinary.com/dzm5dqf0l/image/upload/v1450331893/pdx_vnhrji.jpg") no-repeat no-repeat;
     width: 100%;
     height: 600px !important;
     background-size: cover;
@@ -60,7 +61,7 @@
 }
 
 .navbar-default {
-    background-color: #aed09f !important ;
+    background-color: #ec865a !important ;
     font-family: 'Lora', serif;
 }
 
@@ -69,7 +70,7 @@
 }
 
 .navbar-nav {
-    border-bottom: 2px solid olive;
+    border-bottom: 2px solid tomato;
 }
 
 /* navbar text colors */
@@ -88,18 +89,32 @@
 }
 
 .nav>li>a {
-    color: olive;
+    color: #ec865a;
 
 }
 
 .nav>li>a:hover {
     text-decoration: blink;
     background-color: #fff !important;
-    color: darkseagreen;
+    color: #c65c2e;
 
 }
 
 /* end */
+
+
+
+/*social media icons*/
+
+.facebook-icon {
+    bottom: 585px;
+    right: 30px;
+    position: relative;
+    display: block;
+    z-index: 100;
+}
+
+/*end*/
 
 
 .display-title {
