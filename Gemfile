@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source :rubygems
 gem 'jekyll'
 gem 'kramdown'
 gem 'rack-jekyll', '~> 0.4.2'
