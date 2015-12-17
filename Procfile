@@ -1,1 +1,1 @@
-web: gunicorn a-girl-in-pdx.wsgi
+web: gunicorn a-girl-in-pdx:wsgi
