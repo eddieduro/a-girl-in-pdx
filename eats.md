@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /eats/
+permalink: ts/
 ---
 
-kjlkjlkjkbknkmlkmlkmlkm
