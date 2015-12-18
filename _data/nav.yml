@@ -1,15 +1,15 @@
 - title: PDX
   href: /pdx/
   subcategories:
-    - subtitle: Eats
+    - subtitle: EATS
       subhref: /eats/
-    - subtitle: Brews
+    - subtitle: BREWS
       subhref: /brews/
-    - subtitle: Happy Hours
+    - subtitle: 'HOTSPOTS & HAPPY HOUR'
       subhref: /happy-hours/
-    - subtitle: Music
+    - subtitle: PDX REGGAE
       subhref: /music/
-    - subtitle: "What's going on now?"
+    - subtitle: "WHAT'S GOING ON NOW?"
       subhref: /whats-going-on/
 - title: FITNESS
   href: /fitness/
