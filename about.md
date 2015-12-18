@@ -1,31 +1,7 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about/
 ---
 
-<div class="about">
-  <div class="post-content">
-    <p class="about-text">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-    <br> Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
-    </p>
-  </div>
-
-
-<div class="container-fluid">
-  <div class="about-img">
-    <p class="text-center">
-          <img src="">
-        </p>
-  </div> 
-</div>
-</div>
+<div class="about"><div class="post-content"><p class="about-text">GIRL IN PORTLAND started in December of 2015. The goal is simple - to share with everyone the things I love about the Pacific Northwest. Here you'll find my stories and experiences along with recipes, reviews, favorite places, best PDX happy hours, random ramblings, and then some..</p><p class="about-text">WHO IS THE GIRL IN PORTLAND?</p><p class="about-text">Taylor Lewis - aka Tay. I am a twenty something from Eugene, Oregon. GO DUCKS! I have been living in Portland for just over two years, and I have fallen in love with this city.</p><p class="about-text">I LOVE: my two mischievous and unbearably adorable pups Audrey Hepburn (Boston Terrier) and Ruca Joy (Rescued furry ball of cuteness), adventures, reggae music, brunch, autumn, the color orange, bacon, laughing until it hurts, tattoos, piercings, good beer, movies in bed, sitting down in the shower, yoga, music festivals, camping, hiking, snowboarding, and stocking stuffers.</p></div><div class="container-fluid"><div class="about-img"><p class="text-center"><img src="" /></p></div></div></div>
