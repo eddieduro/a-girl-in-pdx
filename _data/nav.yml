@@ -1,6 +1,8 @@
 - title: PDX
   href: /pdx/
   subcategories:
+    - subtitle: MY TIPS
+      subhref: /tips/
     - subtitle: EATS
       subhref: /eats/
     - subtitle: BREWS
