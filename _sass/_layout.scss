@@ -326,6 +326,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    *padding: 60px; /** ie 7 below **/
 }
 
 .page-heading {
