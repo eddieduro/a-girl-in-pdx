@@ -1,22 +1,24 @@
 - title: PDX
   href: /pdx/
   subcategories:
-    - subtitle: Eats
+    - subtitle: MY TIPS
+      subhref: /tips/
+    - subtitle: EATS
       subhref: /eats/
-    - subtitle: Brews
+    - subtitle: BREWS
       subhref: /brews/
-    - subtitle: Happy Hours
+    - subtitle: 'HOTSPOTS & HAPPY HOUR'
       subhref: /happy-hours/
-    - subtitle: Music
+    - subtitle: PDX REGGAE
       subhref: /music/
-    - subtitle: "What's going on now?"
+    - subtitle: "WHAT'S GOING ON NOW?"
       subhref: /whats-going-on/
 - title: FITNESS
   href: /fitness/
   subcategories:
-    - subtitle: My Journey
+    - subtitle: MY JOURNEY
       subhref: /journey/
-    - subtitle: PDX Gyms
+    - subtitle: PDX GYMS
       subhref: /pdx-gyms/
-    - subtitle: I Love Juicing
+    - subtitle: I LOVE JUICING
       subhref: /juicing/
