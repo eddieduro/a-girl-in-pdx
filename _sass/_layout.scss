@@ -2,6 +2,9 @@
  * Site header
  */
 
+html {
+    overflow-x: hidden;
+}
 .justified {
     position:absolute;
     left:50%;
@@ -40,7 +43,7 @@
 }
 
 .hero-link:hover {
-    color: whitesmoke !important;
+    color: #ebebeb !important;
 }
 
 .title-background{
@@ -318,6 +321,24 @@
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+    .display-title {
+        font-size: 35px;
+    }
+
+    .title-background{
+        background-color: none;
+        height: 60px;
+        width: 305px;
+        margin: auto;
+        top: 287px;
+        position: relative;
+        border: 4px solid white;
+    }
+
+    .hero-link {
+        margin-left: 10px;
     }
 }
 
