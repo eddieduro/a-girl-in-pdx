@@ -5,7 +5,7 @@ date: 2015-12-19T22:00:00.000Z
 categories: ''
 ---
 
-# &nbsp;
+&nbsp;
 
 Cocktails anyone? It isn't holiday party without the cider, eggnog, and the festive punch bowl. Today I realized the best holiday cocktail is the kind the jingles.
 
@@ -19,30 +19,30 @@ If you go don't like ginger? You have no soul and you can't be my friend. This d
 
 Perfect mix to this punch is a photo booth with really great props. The next day looking over the evidence of a VERY Merry Christmas can be quite entertaining. Especially if you have boyfriend that is anything like mine. He is photo booth KING. (Thank you Oregon Photo Booth for the great set up, it helped us create the perfect evening. www.oregonphotobooth.com)&nbsp;
 
-> JINGLE JUICE - Making people jolly
+> *JINGLE JUICE - Making people jolly*
 >
-> Ingredients: (20 servings - based on glass size)
+> *Ingredients: (20 servings - based on glass size)*
 >
-> Cherry Absolute VODKA
+> *Cherry Absolute VODKA*
 >
-> Original Absolute VODKA
+> *Original Absolute VODKA*
 >
-> Ginger syrup
+> *Ginger syrup*
 >
-> 2 two liters of Club Soda
+> *2 two liters of Club Soda*
 >
-> 2 lb of fresh ginger root
+> *2 lb of fresh ginger root*
 >
-> 10 limes - freshly juiced
+> *10 limes - freshly juiced*
 >
-> mint - 1 bunch, juiced with limes
+> *mint - 1 bunch, juiced with limes*
 >
-> Cherry juice - juice from jar of cherries
+> *Cherry juice - juice from jar of cherries*
 >
-> Cranberries - for color accent in punch bowl
+> *Cranberries - for color accent in punch bowl*
 >
-> mint - suggestion color accent in punch bowl
+> *mint - suggestion color accent in punch bowl*
 >
-> SERVE OVER ICE
+> *SERVE OVER ICE*
 
-### ![](/uploads/versions/seasonal_winter_happyholidaysbanner_base_2---x----392-176x---.png)
+![](/uploads/versions/seasonal_winter_happyholidaysbanner_base_2---x----392-176x---.png)
