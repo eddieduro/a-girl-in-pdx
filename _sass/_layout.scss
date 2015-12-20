@@ -240,8 +240,11 @@ html {
     }
 }
 
+/* about */
 
-
+.post-meta {
+    margin-top: 800px;
+}
 /** Profile Picture **/
 
 .profile-pic{
@@ -431,6 +434,10 @@ html {
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    .eats-text{
+        margin-top: 300px;
     }
 }
 
