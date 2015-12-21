@@ -436,11 +436,20 @@ html {
         }
     }
 
-    .eats-text{
-        margin-top: 300px;
+    .padded-text{
+        padding-top: 400px;
     }
 }
 
+/* journey */
+
+.hidden-text{
+    display: none;
+}
+
+.journey:hover{
+    text-decoration: underline;
+}
 /* Work */
 
 .cursor {
