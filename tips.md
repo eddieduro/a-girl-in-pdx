@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /juicing/
+permalink: /tips/
 ---
 
 <div class="post-content">
